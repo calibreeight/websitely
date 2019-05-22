@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Mobirise 4 theme",
+    "name": "Websitely",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -47,14 +47,21 @@
     ],
     "uniqCompNum": 19,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n<meta name=\"robots\" content=\"noindex, nofollow\">",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://websitely.co",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/websitely-128x107.png",
+    "noImageResize": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Websitely",
+        "meta_descr": "Websitely is Australia's leading website service.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
