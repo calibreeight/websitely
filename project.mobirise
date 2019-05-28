@@ -62,7 +62,7 @@
         "main": true,
         "title": "Websitely",
         "meta_descr": "Websitely is Australia's leading website service.",
-        "header_custom": "",
+        "header_custom": "<META NAME=\"ROBOTS\" CONTENT=\"NOINDEX, NOFOLLOW\">",
         "footer_custom": "",
         "html_before": ""
       },
